@@ -14,8 +14,8 @@
   <rect x="90" y="380" width="200" height="8" fill="#ff8c00"/>
   
   <!-- Subtitle -->
-  <text x="90" y="460" font-family="Arial, sans-serif" font-size="30" fill="#333333">AI-enhanced sales performance</text>
-  <text x="90" y="505" font-family="Arial, sans-serif" font-size="30" fill="#333333">without the headaches</text>
+  <text x="90" y="460" font-family="Arial, sans-serif" font-size="30" fill="#333333">A roadmap to more business</text>
+  <text x="90" y="505" font-family="Arial, sans-serif" font-size="30" fill="#333333">in 90 days with AI.</text>
   
   <!-- CTA Button -->
   <ellipse cx="170" cy="600" rx="110" ry="50" fill="#ff8c00"/>
