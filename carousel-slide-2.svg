@@ -7,13 +7,14 @@
   <text x="248" y="80" font-family="Arial, sans-serif" font-weight="bold" font-size="40" fill="#ff8c00">lab</text>
   
   <!-- Title -->
-  <text x="90" y="250" font-family="Arial, sans-serif" font-weight="bold" font-size="60" fill="#000000">Your DMO Moat Is Disappearing</text>
+  <text x="90" y="250" font-family="Arial, sans-serif" font-weight="bold" font-size="60" fill="#000000">Your DMO Value Proposition</text>
+  <text x="90" y="250" font-family="Arial, sans-serif" font-weight="bold" font-size="60" fill="#000000">Is Disappearing</text>  
   
   <!-- Purple Underline -->
   <rect x="90" y="280" width="200" height="8" fill="#5a0dad"/>
   
   <!-- Content -->
-  <text x="90" y="350" font-family="Arial, sans-serif" font-size="30" fill="#333333">What once protected you is vanishing.</text>
+  <text x="90" y="350" font-family="Arial, sans-serif" font-size="30" fill="#333333">What once defined you is vanishing.</text>
   <text x="90" y="400" font-family="Arial, sans-serif" font-size="30" fill="#333333">AI turns weeks into seconds—but this</text>
   <text x="90" y="450" font-family="Arial, sans-serif" font-size="30" fill="#333333">isn't a threat. It's your biggest opportunity.</text>
   
