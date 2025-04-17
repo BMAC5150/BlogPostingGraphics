@@ -7,21 +7,21 @@
   <text x="248" y="80" font-family="Arial, sans-serif" font-weight="bold" font-size="40" fill="#ff8c00">lab</text>
   
   <!-- Title -->
-  <text x="90" y="250" font-family="Arial, sans-serif" font-weight="bold" font-size="60" fill="#000000">ACTION: 2</text>
-  <text x="90" y="330" font-family="Arial, sans-serif" font-weight="bold" font-size="60" fill="#000000">Human Connections Win</text>
+  <text x="90" y="250" font-family="Arial, sans-serif" font-weight="bold" font-size="60" fill="#000000">SIGN-UP for a Workshop</text>
+  <text x="90" y="330" font-family="Arial, sans-serif" font-weight="bold" font-size="60" fill="#000000">AI-Powered Sales Growth in 90 Days</text>
   
   <!-- Orange Underline -->
   <rect x="90" y="380" width="200" height="8" fill="#ff8c00"/>
   
   <!-- Subtitle -->
-  <text x="90" y="460" font-family="Arial, sans-serif" font-size="30" fill="#333333">Double down on relationships.</text>
-  <text x="90" y="505" font-family="Arial, sans-serif" font-size="30" fill="#333333">AI handles tasks better; you're a client trust expert.</text>
-  <text x="90" y="550" font-family="Arial, sans-serif" font-size="30" fill="#333333">Your network becomes your strongest competitive edge.</text>
+  <text x="90" y="460" font-family="Arial, sans-serif" font-size="30" fill="#333333">Hands-on AI workshops for DMO and venue teams, not data scientists.</text>
+  <text x="90" y="505" font-family="Arial, sans-serif" font-size="30" fill="#333333">Leave with action plans and strategies.</text>
+  <text x="90" y="550" font-family="Arial, sans-serif" font-size="30" fill="#333333">Case studies tailored to close more business.</text>
   
   <!-- CTA Button -->
   <ellipse cx="170" cy="670" rx="110" ry="50" fill="#ff8c00"/>
-  <text x="90" y="680" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="white">LEARN MORE</text>
+  <text x="115" y="680" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="white">SIGN-UP</text>
   
   <!-- Slide Number -->
-  <text x="90" y="770" font-family="Arial, sans-serif" font-size="20" fill="#333333">Slide 4 of 9</text>
+  <text x="90" y="770" font-family="Arial, sans-serif" font-size="20" fill="#333333">Slide 10 of 10</text>
 </svg>
