@@ -11,16 +11,16 @@
   <text x="90" y="330" font-family="Arial, sans-serif" font-weight="bold" font-size="60" fill="#000000">Events Sales</text>
   
   <!-- Orange Underline -->
-  <rect x="90" y="350" width="200" height="8" fill="#ff8c00"/>
+  <rect x="90" y="380" width="200" height="8" fill="#ff8c00"/>
   
   <!-- Subtitle -->
-  <text x="90" y="420" font-family="Arial, sans-serif" font-size="30" fill="#333333">AI-enhanced sales performance</text>
-  <text x="90" y="465" font-family="Arial, sans-serif" font-size="30" fill="#333333">without the headaches</text>
+  <text x="90" y="460" font-family="Arial, sans-serif" font-size="30" fill="#333333">AI-enhanced sales performance</text>
+  <text x="90" y="505" font-family="Arial, sans-serif" font-size="30" fill="#333333">without the headaches</text>
   
   <!-- CTA Button -->
-  <ellipse cx="175" cy="555" rx="110" ry="50" fill="#ff8c00"/>
-  <text x="108" y="565" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="white">LEARN MORE</text>
+  <ellipse cx="170" cy="600" rx="110" ry="50" fill="#ff8c00"/>
+  <text x="90" y="610" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="white">LEARN MORE</text>
   
   <!-- Slide Number -->
-  <text x="90" y="720" font-family="Arial, sans-serif" font-size="20" fill="#333333">Slide 1 of 9</text>
+  <text x="90" y="770" font-family="Arial, sans-serif" font-size="20" fill="#333333">Slide 1 of 9</text>
 </svg>
