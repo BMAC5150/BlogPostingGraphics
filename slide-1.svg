@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="1200" height="1200" fill="#FF8200" />
+    
+    <!-- Logo Background Box -->
+    <rect x="35" y="35" width="180" height="180" fill="#0d0041" rx="10" ry="10" />
+    
+    <!-- InsightsLab Logo Elements -->
+    <circle cx="125" cy="125" r="55" fill="none" stroke="#FF8200" stroke-width="10" />
+    <circle cx="105" cy="125" r="35" fill="none" stroke="#9932CC" stroke-width="10" />
+    <circle cx="145" cy="125" r="35" fill="none" stroke="#9932CC" stroke-width="10" />
+    
+    <!-- InsightsLab Text -->
+    <text x="235" y="125" font-family="Arial, sans-serif" font-weight="bold" font-size="80" fill="white">insights</text>
+    <text x="575" y="125" font-family="Arial, sans-serif" font-weight="bold" font-size="80" fill="white">lab</text>
+    
+    <!-- Main Headline -->
+    <text x="35" y="450" font-family="Arial, sans-serif" font-weight="bold" font-size="120" fill="#0d0041">Close More Business</text>
+    <text x="35" y="570" font-family="Arial, sans-serif" font-weight="bold" font-size="120" fill="#0d0041">Events Sales</text>
+    
+    <!-- Subtitle -->
+    <text x="35" y="670" font-family="Arial, sans-serif" font-size="60" fill="#0d0041">AI-enhanced sales performance</text>
+    <text x="35" y="740" font-family="Arial, sans-serif" font-size="60" fill="#0d0041">without the headaches</text>
+    
+    <!-- CTA Button -->
+    <rect x="45" y="1050" width="300" height="100" rx="50" ry="50" fill="#0d0041" />
+    <text x="195" y="1110" font-family="Arial, sans-serif" font-weight="bold" font-size="40" fill="white" text-anchor="middle">LEARN HOW</text>
+</svg>
