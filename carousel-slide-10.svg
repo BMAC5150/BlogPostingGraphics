@@ -1,0 +1,27 @@
+<svg width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="800" fill="#ffffff"/>
+  
+  <!-- Logo -->
+  <text x="90" y="80" font-family="Arial, sans-serif" font-weight="bold" font-size="40" fill="#5a0dad">insights</text>
+  <text x="248" y="80" font-family="Arial, sans-serif" font-weight="bold" font-size="40" fill="#ff8c00">lab</text>
+  
+  <!-- Title -->
+  <text x="90" y="250" font-family="Arial, sans-serif" font-weight="bold" font-size="60" fill="#000000">ACTION: 2</text>
+  <text x="90" y="330" font-family="Arial, sans-serif" font-weight="bold" font-size="60" fill="#000000">Human Connections Win</text>
+  
+  <!-- Orange Underline -->
+  <rect x="90" y="380" width="200" height="8" fill="#ff8c00"/>
+  
+  <!-- Subtitle -->
+  <text x="90" y="460" font-family="Arial, sans-serif" font-size="30" fill="#333333">Double down on relationships.</text>
+  <text x="90" y="505" font-family="Arial, sans-serif" font-size="30" fill="#333333">AI handles tasks better; you're a client trust expert.</text>
+  <text x="90" y="550" font-family="Arial, sans-serif" font-size="30" fill="#333333">Your network becomes your strongest competitive edge.</text>
+  
+  <!-- CTA Button -->
+  <ellipse cx="170" cy="670" rx="110" ry="50" fill="#ff8c00"/>
+  <text x="90" y="680" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="white">LEARN MORE</text>
+  
+  <!-- Slide Number -->
+  <text x="90" y="770" font-family="Arial, sans-serif" font-size="20" fill="#333333">Slide 4 of 9</text>
+</svg>
