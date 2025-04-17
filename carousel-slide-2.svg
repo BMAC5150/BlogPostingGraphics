@@ -7,8 +7,8 @@
   <text x="248" y="80" font-family="Arial, sans-serif" font-weight="bold" font-size="40" fill="#ff8c00">lab</text>
   
   <!-- Title -->
-  <text x="90" y="250" font-family="Arial, sans-serif" font-weight="bold" font-size="60" fill="#000000">Your DMO Value Proposition</text>
-  <text x="90" y="250" font-family="Arial, sans-serif" font-weight="bold" font-size="60" fill="#000000">Is Disappearing</text>  
+  <text x="90" y="250" font-family="Arial, sans-serif" font-weight="bold" font-size="60" fill="#000000">Your DMO Value Prop</text>
+  <text x="90" y="330" font-family="Arial, sans-serif" font-weight="bold" font-size="60" fill="#000000">Is Disappearing</text>  
   
   <!-- Purple Underline -->
   <rect x="90" y="280" width="200" height="8" fill="#5a0dad"/>
