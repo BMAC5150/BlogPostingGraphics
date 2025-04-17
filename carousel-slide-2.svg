@@ -19,9 +19,9 @@
   <text x="90" y="560" font-family="Arial, sans-serif" font-size="30" fill="#333333">isn't a threat. It's your biggest opportunity.</text>
   
   <!-- CTA Button -->
-  <ellipse cx="170" cy="640" rx="110" ry="50" fill="#ff8c00"/>
-  <text x="90" y="650" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="white">LEARN MORE</text>
+  <ellipse cx="170" cy="670" rx="110" ry="50" fill="#ff8c00"/>
+  <text x="90" y="680" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="white">LEARN MORE</text>
   
   <!-- Slide Number -->
-  <text x="90" y="730" font-family="Arial, sans-serif" font-size="20" fill="#333333">Slide 2 of 9</text>
+  <text x="90" y="770" font-family="Arial, sans-serif" font-size="20" fill="#333333">Slide 2 of 9</text>
 </svg>
