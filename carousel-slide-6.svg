@@ -7,23 +7,23 @@
   <text x="248" y="80" font-family="Arial, sans-serif" font-weight="bold" font-size="40" fill="#ff8c00">lab</text>
   
   <!-- Title -->
-  <text x="90" y="250" font-family="Arial, sans-serif" font-weight="bold" font-size="60" fill="#000000">ACTION 3</text>
-  <text x="90" y="330" font-family="Arial, sans-serif" font-weight="bold" font-size="60" fill="#000000">Start Small. Start Now.</text>
+  <text x="90" y="200" font-family="Arial, sans-serif" font-weight="bold" font-size="60" fill="#000000">ACTION 3:</text>
+  <text x="90" y="280" font-family="Arial, sans-serif" font-weight="bold" font-size="60" fill="#000000">Start Small. Start Now.</text>
   
   <!-- Orange Underline -->
-  <rect x="90" y="380" width="200" height="8" fill="#ff8c00"/>
+  <rect x="90" y="330" width="200" height="8" fill="#ff8c00"/>
   
   <!-- Content -->
-  <text x="90" y="460" font-family="Arial, sans-serif" font-size="30" fill="#333333">Launch three 30-day AI pilots:</text>
-  <text x="90" y="510" font-family="Arial, sans-serif" font-size="30" fill="#333333">• Content generation</text>
-  <text x="90" y="560" font-family="Arial, sans-serif" font-size="30" fill="#333333">• Data analysis</text>
-  <text x="90" y="610" font-family="Arial, sans-serif" font-size="30" fill="#333333">• Personalized client outreach</text>
-  <text x="90" y="660" font-family="Arial, sans-serif" font-size="30" fill="#333333">Experiment relentlessly.</text>
+  <text x="90" y="410" font-family="Arial, sans-serif" font-size="30" fill="#333333">Launch three 30-day AI pilots:</text>
+  <text x="90" y="460" font-family="Arial, sans-serif" font-size="30" fill="#333333">• Content generation</text>
+  <text x="90" y="510" font-family="Arial, sans-serif" font-size="30" fill="#333333">• Data analysis</text>
+  <text x="90" y="560" font-family="Arial, sans-serif" font-size="30" fill="#333333">• Personalized client outreach</text>
+  <text x="90" y="610" font-family="Arial, sans-serif" font-size="30" fill="#333333">Experiment relentlessly.</text>
   
   <!-- CTA Button -->
-  <ellipse cx="170" cy="670" rx="110" ry="50" fill="#ff8c00"/>
-  <text x="90" y="680" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="white">LEARN MORE</text>
+  <ellipse cx="175" cy="680" rx="110" ry="50" fill="#ff8c00"/>
+  <text x="90" y="695" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="white">LEARN MORE</text>
   
   <!-- Slide Number -->
-  <text x="90" y="720" font-family="Arial, sans-serif" font-size="20" fill="#333333">Slide 6 of 9</text>
+  <text x="90" y="780" font-family="Arial, sans-serif" font-size="20" fill="#333333">Slide 6 of 9</text>
 </svg>
